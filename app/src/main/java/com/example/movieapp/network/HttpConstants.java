@@ -3,7 +3,7 @@ package com.example.movieapp.network;
 import java.util.Map;
 
 public class HttpConstants {
-    public static final String API_TOKEN = "DMRM0NC-YNSMBH4-MQJ05CV-H33K9Y7";
+    public static final String API_TOKEN = "YOUR-API-KEY";
     public static final String API_KEY = "X-API-KEY";
     public static final String ACCEPT = "Accept";
     public static final String APPLICATION_JSON = "application/json";
