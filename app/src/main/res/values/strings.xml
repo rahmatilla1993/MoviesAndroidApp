@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="movie_item_rating">8.0</string>
+    <string name="activity_movie_detail_movie_title">Movie title</string>
+    <string name="activity_movie_detail_movie_year">1999</string>
+    <string name="activity_movie_detail_movie_description">Movie Description</string>
+    <string name="trailer_name">Movie trailer</string>
+    <string name="review_title">Review title</string>
+    <string name="review_author">Review Author</string>
+    <string name="review_content">Review Content</string>
+    <string name="menu_favourite">Tanlanganlar</string>
+</resources>
